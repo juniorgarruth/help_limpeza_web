@@ -1,0 +1,20 @@
+[server]
+headless = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#6B52B3"
+backgroundColor = "#F9F9FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#4A3F75"
+borderColor = "#E0E0E0"
+greenColor = "#2E9E6B"
+redColor = "#C0392B"
+yellowColor = "#DDAA33"
+baseRadius = "8px"
+showWidgetBorder = true
+chartCategoricalColors = ["#6B52B3", "#DDAA33", "#2E9E6B", "#C0392B", "#4A3F75"]
